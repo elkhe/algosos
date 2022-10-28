@@ -1,0 +1,2 @@
+# algosos
+repo for algorithms
